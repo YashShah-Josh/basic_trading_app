@@ -55,3 +55,8 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'devise'      # For authentication
+gem 'chartkick'   # For charts
+gem 'groupdate'   # For date grouping
+gem 'will_paginate' # For pagination

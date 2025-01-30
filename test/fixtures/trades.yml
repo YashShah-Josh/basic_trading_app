@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  stock: one
+  quantity: 1
+  price: 9.99
+  trade_type: MyString
+  status: MyString
+  transaction_date: 2025-01-30 15:48:59
+
+two:
+  user: two
+  stock: two
+  quantity: 1
+  price: 9.99
+  trade_type: MyString
+  status: MyString
+  transaction_date: 2025-01-30 15:48:59
